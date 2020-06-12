@@ -1,0 +1,27 @@
+{
+  "name": "goblin-tradingpost",
+  "version": "0.0.1",
+  "author": "",
+  "license": "MIT",
+  "description": "Goblin who expose other goblins quest by an http API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "config": {
+    "xcraft": {
+      "commands": true
+    }
+  },
+  "dependencies": {
+    "fastify": "^2.14.1",
+    "fastify-swagger": "^2.6.0",
+    "traverse": "^0.6.6",
+    "xcraft-core-goblin": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.4",
+    "xcraft-dev-prettier": "^2.0.0",
+    "xcraft-dev-rules": "^2.0.0"
+  },
+  "prettier": "xcraft-dev-prettier"
+}
