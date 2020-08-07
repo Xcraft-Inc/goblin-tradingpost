@@ -16,7 +16,7 @@
     "fastify": "^2.14.1",
     "fastify-swagger": "^2.6.0",
     "traverse": "^0.6.6",
-    "xcraft-core-goblin": "^3.0.0"
+    "xcraft-core-goblin": "^4.0.1"
   },
   "devDependencies": {
     "prettier": "2.0.4",
