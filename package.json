@@ -15,7 +15,7 @@
   "dependencies": {
     "fastify": "^3.5.0",
     "fastify-plugin": "^3.0.0",
-    "fastify-swagger": "^3.5.0",
+    "fastify-oas": "^3.0.8",
     "traverse": "^0.6.6",
     "xcraft-core-goblin": "^4.0.1"
   },
