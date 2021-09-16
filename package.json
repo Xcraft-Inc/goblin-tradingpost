@@ -17,7 +17,7 @@
     "fastify-plugin": "^3.0.0",
     "fastify-oas": "^3.0.8",
     "fastify-cors": "^5.1.0",
-    "xcraft-core-goblin": "^4.0.1"
+    "xcraft-core-goblin": "^5.0.0"
   },
   "devDependencies": {
     "prettier": "2.0.4",
