@@ -2,7 +2,6 @@
 7;
 
 const Goblin = require('xcraft-core-goblin');
-const common = require('goblin-workshop').common;
 
 module.exports = (config) => {
   const {
@@ -75,7 +74,7 @@ module.exports = (config) => {
   );
 
   if (quests) {
-    common.registerQuests(goblinName, quests, options);
+    Goblin.registerQuests(goblinName, quests, options);
   }
 
   function disposeQuest(quest) {
