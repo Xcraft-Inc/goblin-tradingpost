@@ -1,6 +1,6 @@
 {
   "name": "goblin-tradingpost",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "",
   "license": "MIT",
   "description": "Goblin who expose other goblins quest by an http API",
