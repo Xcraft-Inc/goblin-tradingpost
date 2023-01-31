@@ -1,0 +1,9 @@
+[
+  {
+    "Module": "goblin-tradingpost",
+    "Version": "v2.0.1",
+    "Hash": "7e15495",
+    "Dev": "master",
+    "Prod": "2.0"
+  }
+]
