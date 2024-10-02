@@ -1,10 +1,4 @@
-'use strict';
+const {Elf} = require('xcraft-core-goblin');
+const {Tradingpost, TradingpostLogic} = require('./lib/service.js');
 
-/**
- * Retrieve the list of available commands.
- *
- * @returns {Object} The list and definitions of commands.
- */
-exports.xcraftCommands = function () {
-  return require('./lib/service.js');
-};
+exports.xcraftCommands = Elf.birth(Tradingpost, TradingpostLogic);
