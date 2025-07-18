@@ -1,7 +1,14 @@
 {
   "name": "goblin-tradingpost",
   "version": "2.1.0",
-  "author": "",
+  "author": "Epsitec SA",
+  "contributors": [
+    "Samuel Loup <loup@epsitec.ch>",
+    "Mathieu Schroeter <schroeter@epsitec.ch>",
+    "Gillian Fries <fries@epsitec.ch>",
+    "Jonny Quarta <quarta@epsitec.ch>",
+    "Catia Guidi <guidi@epsitec.ch>"
+  ],
   "license": "MIT",
   "description": "Goblin who expose other goblins quest by an http API",
   "scripts": {
